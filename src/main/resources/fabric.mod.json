@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "featherclient",
+  "version": "1.0.0",
+  "name": "Feather Client",
+  "description": "Adds a logo to GUI screens in Minecraft.",
+  "license": "MIT",
+  "icon": "assets/featherclient/icon.png",
+  "entrypoints": {
+    "main": [
+      "com.pojavpro.featherclient.FeatherClientMod"
+    ]
+  },
+  "mixins": {},
+  "environment": "*"
+}
